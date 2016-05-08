@@ -1,0 +1,19 @@
+{
+  "name": "script-tools",
+  "version": "1.0.0",
+  "description": "Collection of helpful scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "node file_name"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shashankKeshava/Script-Tools.git"
+  },
+  "author": "Shashank Keshava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashankKeshava/Script-Tools/issues"
+  },
+  "homepage": "https://github.com/shashankKeshava/Script-Tools#readme"
+}
