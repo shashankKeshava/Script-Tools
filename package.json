@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/shashankKeshava/Script-Tools/issues"
   },
-  "homepage": "https://github.com/shashankKeshava/Script-Tools#readme"
+  "homepage": "https://github.com/shashankKeshava/Script-Tools#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "fs": "0.0.2"
+  }
 }
